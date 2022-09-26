@@ -1,0 +1,23 @@
+Field	Value	
+District	D10	
+Population	177088	
+Deviation	1,340	
+% Deviation	0.76%	
+White	127289	
+% White	71.88%	
+Black	8421	
+% Black	4.76%	
+AmIndian	660	
+% AmIndian	0.37%	
+Asian	9725	
+% Asian	5.49%	
+Hawaiian	52	
+% Hawaiian	0.03%	
+Other	12378	
+% Other	6.99%	
+2+ Races	18563	
+% 2+ Races	10.48%	
+NH_Wht	121933	
+% NH_Wht	68.85%	
+Hispanic Origin	27485	
+% Hispanic Origin	15.52%	

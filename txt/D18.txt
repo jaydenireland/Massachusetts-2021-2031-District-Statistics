@@ -1,0 +1,23 @@
+Field	Value	
+District	D18	
+Population	180666	
+Deviation	4,918	
+% Deviation	2.8%	
+White	125676	
+% White	69.56%	
+Black	19903	
+% Black	11.02%	
+AmIndian	454	
+% AmIndian	0.25%	
+Asian	10484	
+% Asian	5.8%	
+Hawaiian	43	
+% Hawaiian	0.02%	
+Other	9715	
+% Other	5.38%	
+2+ Races	14391	
+% 2+ Races	7.97%	
+NH_ Wht	122971	
+% NH_Wht	68.07%	
+Hispanic Origin	19978	
+% Hispanic Origin	11.06%	

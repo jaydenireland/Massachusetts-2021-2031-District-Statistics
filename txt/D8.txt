@@ -1,0 +1,23 @@
+Field	Value	
+District	D08	
+Population	166976	
+Deviation	-8,772	
+% Deviation	-4.99%	
+White	109913	
+% White	65.83%	
+Black	11754	
+% Black	7.04%	
+AmIndian	417	
+% AmIndian	0.25%	
+Asian	21834	
+% Asian	13.08%	
+Hawaiian	22	
+% Hawaiian	0.01%	
+Other	9270	
+% Other	5.55%	
+2+ Races	13766	
+% 2+ Races	8.24%	
+NH_Wht	106514	
+% NH_ Wht	63.79%	
+Hispanic Origin	17986	
+% Hispanic Origin	10.77%	

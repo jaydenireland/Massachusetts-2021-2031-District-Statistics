@@ -1,0 +1,23 @@
+Field	Value	
+District	D16	
+Population	178462	
+Deviation	2,714	
+% Deviation	1.54%	
+White	131401	
+% White	73.63%	
+Black	6492	
+% Black	3.64%	
+AmIndian	257	
+% AmIndian	0.14%	
+Asian	24656	
+% Asian	13.82%	
+Hawaiian	24	
+% Hawaiian	0.01%	
+Other	3931	
+% Other	2.2%	
+2+ Races	11701	
+% 2+ Races	6.56%	
+NH_Wht	129643	
+% NH_Wht	72.64%	
+Hispanic Origin	8328	
+% Hispanic Origin	4.67%	

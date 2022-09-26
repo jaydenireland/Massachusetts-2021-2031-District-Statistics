@@ -1,0 +1,23 @@
+Field	Value	
+District	D23	
+Population	183642	
+Deviation	7,894	
+% Deviation	4.49%	
+White	124668	
+% White	67.89%	
+Black	12292	
+% Black	6.69%	
+AmIndian	352	
+% AmIndian	0.19%	
+Asian	25775	
+% Asian	14.04%	
+Hawaiian	40	
+% Hawaiian	0.02%	
+Other	6693	
+% Other	3.64%	
+2+ Races	13822	
+% 2+ Races	7.53%	
+NH Wht	122730	
+% NH_Wht	66.83%	
+Hispanic Origin	11485	
+% Hispanic Origin	6.25%	

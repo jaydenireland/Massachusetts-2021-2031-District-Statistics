@@ -1,0 +1,23 @@
+Field	Value	
+District	D05	
+Population	167716	
+Deviation	-8,032	
+% Deviation	-4.57%	
+White	135282	
+% White	80.66%	
+Black	4772	
+% Black	2.85%	
+AmIndian	481	
+% AmIndian	0.29%	
+Asian	10114	
+% Asian	6.03%	
+Hawaiian	48	
+% Hawaiian	0.03%	
+Other	4336	
+% Other	2.59%	
+2+ Races	12683	
+% 2+ Races	7.56%	
+NH_Wht	132584	
+% NH_Wht	79.05%	
+Hispanic Origin	11701	
+% Hispanic Origin	6.98%	

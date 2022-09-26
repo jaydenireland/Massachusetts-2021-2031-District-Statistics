@@ -1,0 +1,23 @@
+Field	Value	
+District	D06	
+Population	167231	
+Deviation	-8,517	
+% Deviation	-4.85%	
+White	141575	
+% White	84.66%	
+Black	5500	
+% Black	3.29%	
+AmIndian	371	
+% AmIndian	0.22%	
+Asian	4000	
+% Asian	2.39%	
+Hawaiian	59	
+% Hawaiian	0.04%	
+Other	4789	
+% Other	2.86%	
+2+ Races	10937	
+% 2+ Races	6.54%	
+NH_ Wht	138752	
+% NH_Wht	82.97%	
+Hispanic Origin	11717	
+% Hispanic Origin	7.01%	

@@ -1,0 +1,23 @@
+Field	Value	
+District	D11	
+Population	175513	
+Deviation	-235	
+% Deviation	-0.13%	
+White	101506	
+% White	57.83%	
+Black	12769	
+% Black	7.28%	
+AmIndian	476	
+% AmIndian	0.27%	
+Asian	29168	
+% Asian	16.62%	
+Hawaiian	72	
+% Hawaiian	0.04%	
+Other	15679	
+% Other	8.93%	
+2+ Races	15843	
+% 2+ Races	9.03%	
+NH_Wht	94919	
+% NH Wht	54.08%	
+Hispanic Origin	28547	
+% Hispanic Origin	16.26%	

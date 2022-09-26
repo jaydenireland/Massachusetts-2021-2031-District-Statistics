@@ -1,0 +1,23 @@
+Field	Value	
+District	D17	
+Population	181664	
+Deviation	5,916	
+% Deviation	3.37%	
+White	127538	
+% White	70.21%	
+Black	5361	
+% Black	2.95%	
+AmIndian	266	
+% AmIndian	0.15%	
+Asian	31242	
+% Asian	17.2%	
+Hawaiian	52	
+% Hawaiian	0.03%	
+Other	3811	
+% Other	2.1%	
+2+ Races	13394	
+% 2+ Races	7.37%	
+NH_Wht	125199	
+% NH Wht	68.92%	
+Hispanic Origin	10288	
+% Hispanic Origin	5.66%	

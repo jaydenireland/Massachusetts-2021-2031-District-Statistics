@@ -1,0 +1,23 @@
+Field	Value	
+District	D07	
+Population	181709	
+Deviation	5,961	
+% Deviation	3.39%	
+White	157271	
+% White	86.55%	
+Black	2899	
+% Black	1.6%	
+AmIndian	400	
+% AmIndian	0.22%	
+Asian	2663	
+% Asian	1.47%	
+Hawaiian	55	
+% Hawaiian	0.03%	
+Other	6336	
+% Other	3.49%	
+2+ Races	12085	
+% 2+ Races	6.65%	
+NH_Wht	152991	
+% NH Wht	84.2%	
+Hispanic Origin	15631	
+% Hispanic Origin	8.6%	

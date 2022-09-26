@@ -1,0 +1,23 @@
+Field	Value	
+District	D20	
+Population	181376	
+Deviation	5,628	
+% Deviation	3.2%	
+White	149993	
+% White	82.7%	
+Black	4231	
+% Black	2.33%	
+AmIndian	249	
+% AmIndian	0.14%	
+Asian	10511	
+% Asian	5.8%	
+Hawaiian	53	
+% Hawaiian	0.03%	
+Other	5505	
+% Other	3.04%	
+2+ Races	10834	
+% 2+ Races	5.97%	
+NH_Wht	147444	
+% NH_Wht	81.29%	
+Hispanic Origin	12263	
+% Hispanic Origin	6.76%	

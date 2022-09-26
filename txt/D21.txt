@@ -1,0 +1,23 @@
+Field	Value	
+District	D21	
+Population	180195	
+Deviation	4,447	
+% Deviation	2.53%	
+White	162361	
+% White	90.1%	
+Black	1564	
+% Black	0.87%	
+AmIndian	263	
+% AmIndian	0.15%	
+Asian	4207	
+% Asian	2.33%	
+Hawaiian	48	
+% Hawaiian	0.03%	
+Other	2937	
+% Other	1.63%	
+2+ Races	8815	
+% 2+ Races	4.89%	
+NH_Wht	161061	
+% NH_Wht	89.38%	
+Hispanic Origin	6375	
+% Hispanic Origin	3.54%	

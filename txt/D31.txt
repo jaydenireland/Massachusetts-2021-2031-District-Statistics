@@ -1,0 +1,23 @@
+Field	Value	
+District	D31	
+Population	172503	
+Deviation	-3,245	
+% Deviation	-1.85%	
+White	151942	
+% White	88.08%	
+Black	3407	
+% Black	1.98%	
+AmIndian	224	
+% AmIndian	0.13%	
+Asian	5592	
+% Asian	3.24%	
+Hawaiian	29	
+% Hawaiian	0.02%	
+Other	2707	
+% Other	1.57%	
+2+ Races	8602	
+% 2+ Races	4.99%	
+NH_Wht	150842	
+% NH Wht	87.44%	
+Hispanic Origin	4906	
+% Hispanic Origin	2.84%	

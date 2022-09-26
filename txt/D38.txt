@@ -1,0 +1,23 @@
+Field	Value	
+District	D38	
+Population	167853	
+Deviation	-7,895	
+% Deviation	-4.49%	
+White	120550	
+% White	71.82%	
+Black	7129	
+% Black	4.25%	
+AmIndian	1497	
+% AmIndian	0.89%	
+Asian	2222	
+% Asian	1.32%	
+Hawaiian	64	
+% Hawaiian	0.04%	
+Other	16389	
+% Other	9.76%	
+2+ Races	20002	
+% 2+ Races	11.92%	
+NH_Wht	116080	
+% NH_Wht	69.16%	
+Hispanic Origin	26791	
+% Hispanic Origin	15.96%	

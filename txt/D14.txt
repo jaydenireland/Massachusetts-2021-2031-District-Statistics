@@ -1,0 +1,23 @@
+Field	Value	
+District	D14	
+Population	178044	
+Deviation	2,296	
+% Deviation	1.31%	
+White	146980	
+% White	82.55%	
+Black	3657	
+% Black	2.05%	
+AmIndian	370	
+% AmIndian	0.21%	
+Asian	8745	
+% Asian	4.91%	
+Hawaiian	46	
+% Hawaiian	0.03%	
+Other	5771	
+% Other	3.24%	
+2+ Races	12475	
+% 2+ Races	7.01%	
+NH_Wht	145087	
+% NH_Wht	81.49%	
+Hispanic Origin	9288	
+% Hispanic Origin	5.22%	

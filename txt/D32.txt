@@ -1,0 +1,23 @@
+Field	Value	
+District	D32	
+Population	172439	
+Deviation	-3,309	
+% Deviation	-1.88%	
+White	113166	
+% White	65.63%	
+Black	9296	
+% Black	5.39%	
+AmIndian	344	
+% AmIndian	0.2%	
+Asian	34426	
+% Asian	19.96%	
+Hawaiian	35	
+% Hawaiian	0.02%	
+Other	4809	
+% Other	2.79%	
+2+ Races	10363	
+% 2+ Races	6.01%	
+NH_Wht	111751	
+% NH_Wht	64.81%	
+Hispanic Origin	8062	
+% Hispanic Origin	4.68%	

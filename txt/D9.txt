@@ -1,0 +1,23 @@
+Field	Value	
+District	D09	
+Population	167438	
+Deviation	-8,310	
+% Deviation	-4.73%	
+White	99497	
+% White	59.42%	
+Black	19187	
+% Black	11.46%	
+AmIndian	740	
+% AmIndian	0.44%	
+Asian	11596	
+% Asian	6.93%	
+Hawaiian	74	
+% Hawaiian	0.04%	
+Other	18957	
+% Other	11.32%	
+2+ Races	17387	
+% 2+ Races	10.38%	
+NH_ Wht	92795	
+% NH_Wht	55.42%	
+Hispanic Origin	36518	
+% Hispanic Origin	21.81%	

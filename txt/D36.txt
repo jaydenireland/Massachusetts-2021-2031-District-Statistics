@@ -1,0 +1,23 @@
+Field	Value	
+District	D36	
+Population	181988	
+Deviation	6,240	
+% Deviation	3.55%	
+White	152213	
+% White	83.64%	
+Black	7655	
+% Black	4.21%	
+AmIndian	443	
+% AmIndian	0.24%	
+Asian	2491	
+% Asian	1.37%	
+Hawaiian	50	
+% Hawaiian	0.03%	
+Other	5149	
+% Other	2.83%	
+2+ Races	13987	
+% 2+ Races	7.69%	
+NH_Wht	150220	
+% NH_Wht	82.54%	
+Hispanic Origin	8204	
+% Hispanic Origin	4.51%	

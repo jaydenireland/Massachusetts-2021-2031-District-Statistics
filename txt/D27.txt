@@ -1,0 +1,23 @@
+Field	Value	
+District	D27	
+Population	180853	
+Deviation	5,105	
+% Deviation	2.9%	
+White	120674	
+% White	66.72%	
+Black	13562	
+% Black	7.5%	
+AmIndian	344	
+% AmIndian	0.19%	
+Asian	21647	
+% Asian	11.97%	
+Hawaiian	67	
+% Hawaiian	0.04%	
+Other	8359	
+% Other	4.62%	
+2+ Races	16200	
+% 2+ Races	8.96%	
+NH Wht	117983	
+% NH_Wht	65.24%	
+Hispanic Origin	15342	
+% Hispanic Origin	8.48%	

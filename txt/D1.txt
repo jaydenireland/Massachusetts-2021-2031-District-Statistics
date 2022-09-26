@@ -1,0 +1,23 @@
+Field	Value	
+District	D01	
+Population	167288	
+Deviation	-8,460	
+% Deviation	-4.81%	
+White	146237	
+% White	87.42%	
+Black	4478	
+% Black	2.68%	
+AmIndian	361	
+% AmIndian	0.22%	
+Asian	2261	
+% Asian	1.35%	
+Hawaiian	30	
+% Hawaiian	0.02%	
+Other	3535	
+% Other	2.11%	
+2+ Races	10386	
+% 2+ Races	6.21%	
+NH Wht	144311	
+% NH_Wht	86.27%	
+Hispanic Origin	8198	
+% Hispanic Origin	4.9%	

@@ -1,0 +1,23 @@
+Field	Value	
+District	D04	
+Population	167192	
+Deviation	-8,556	
+% Deviation	-4.87%	
+White	138551	
+% White	82.87%	
+Black	6148	
+% Black	3.68%	
+AmIndian	333	
+% AmIndian	0.2%	
+Asian	5513	
+% Asian	3.3%	
+Hawaiian	60	
+% Hawaiian	0.04%	
+Other	5584	
+% Other	3.34%	
+2+ Races	11003	
+% 2+ Races	6.58%	
+NH_Wht	135107	
+% NH_Wht	80.81%	
+Hispanic Origin	14438	
+% Hispanic Origin	8.64%	

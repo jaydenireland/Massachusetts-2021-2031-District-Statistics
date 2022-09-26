@@ -1,0 +1,23 @@
+Field	Value	
+District	D26	
+Population	184151	
+Deviation	8,403	
+% Deviation	4.78%	
+White	84721	
+% White	46.01%	
+Black	18784	
+% Black	10.2%	
+AmIndian	1166	
+% AmIndian	0.63%	
+Asian	22893	
+% Asian	12.43%	
+Hawaiian	69	
+% Hawaiian	0.04%	
+Other	33016	
+% Other	17.93%	
+2+ Races	23502	
+% 2+ Races	12.76%	
+NH_Wht	78052	
+% NH_Wht	42.38%	
+Hispanic Origin	50497	
+% Hispanic Origin	27.42%	

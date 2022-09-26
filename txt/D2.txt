@@ -1,0 +1,23 @@
+Field	Value	
+District	D02	
+Population	167628	
+Deviation	-8,120	
+% Deviation	-4.62%	
+White	127424	
+% White	76.02%	
+Black	4842	
+% Black	2.89%	
+AmIndian	571	
+% AmIndian	0.34%	
+Asian	4568	
+% Asian	2.73%	
+Hawaiian	84	
+% Hawaiian	0.05%	
+Other	15022	
+% Other	8.96%	
+2+ Races	15117	
+% 2+ Races	9.02%	
+NH_Wht	120573	
+% NH_Wht	71.93%	
+Hispanic Origin	32390	
+% Hispanic Origin	19.32%	

@@ -1,0 +1,23 @@
+Field	Value	
+District	D25	
+Population	183880	
+Deviation	8,132	
+% Deviation	4.63%	
+White	108345	
+% White	58.92%	
+Black	7562	
+% Black	4.11%	
+AmIndian	921	
+% AmIndian	0.5%	
+Asian	13574	
+% Asian	7.38%	
+Hawaiian	107	
+% Hawaiian	0.06%	
+Other	30371	
+% Other	16.52%	
+2+ Races	23000	
+% 2+ Races	12.51%	
+NH_Wht	101704	
+% NH Wht	55.31%	
+Hispanic Origin	51381	
+% Hispanic Origin	27.94%	

@@ -1,0 +1,23 @@
+Field	Value	
+District	D19	
+Population	167027	
+Deviation	-8,721	
+% Deviation	-4.96%	
+White	64199	
+% White	38.44%	
+Black	9197	
+% Black	5.51%	
+AmIndian	1724	
+% AmIndian	1.03%	
+Asian	4237	
+% Asian	2.54%	
+Hawaiian	80	
+% Hawaiian	0.05%	
+Other	60844	
+% Other	36.43%	
+2+ Races	26746	
+% 2+ Races	16.01%	
+NH_Wht	53720	
+% NH Wht	32.16%	
+Hispanic Origin	99043	
+% Hispanic Origin	59.3%	

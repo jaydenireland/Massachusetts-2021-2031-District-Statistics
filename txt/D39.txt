@@ -1,0 +1,23 @@
+Field	Value	
+District	D39	
+Population	184504	
+Deviation	8,756	
+% Deviation	4.98%	
+White	165001	
+% White	89.43%	
+Black	2889	
+% Black	1.57%	
+AmIndian	927	
+% AmIndian	0.5%	
+Asian	2424	
+% Asian	1.31%	
+Hawaiian	38	
+% Hawaiian	0.02%	
+Other	2963	
+% Other	1.61%	
+2+ Races	10262	
+% 2+ Races	5.56%	
+NH Wht	163696	
+% NH_Wht	88.72%	
+Hispanic Origin	4638	
+% Hispanic Origin	2.51%	

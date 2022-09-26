@@ -1,0 +1,23 @@
+Field	Value	
+District	D15	
+Population	170258	
+Deviation	-5,490	
+% Deviation	-3.12%	
+White	120319	
+% White	70.67%	
+Black	7075	
+% Black	4.16%	
+AmIndian	449	
+% AmIndian	0.26%	
+Asian	22574	
+% Asian	13.26%	
+Hawaiian	45	
+% Hawaiian	0.03%	
+Other	8431	
+% Other	4.95%	
+2+ Races	11365	
+% 2+ Races	6.68%	
+NH Wht	117972	
+% NH_Wht	69.29%	
+Hispanic Origin	15172	
+% Hispanic Origin	8.91%	

@@ -1,0 +1,23 @@
+Field	Value	
+District	D28	
+Population	183947	
+Deviation	8,199	
+% Deviation	4.67%	
+White	120273	
+% White	65.38%	
+Black	8524	
+% Black	4.63%	
+AmIndian	411	
+% AmIndian	0.22%	
+Asian	32230	
+% Asian	17.52%	
+Hawaiian	104	
+% Hawaiian	0.06%	
+Other	8233	
+% Other	4.48%	
+2+ Races	14172	
+% 2+ Races	7.7%	
+NH_Wht	116717	
+% NH_ Wht	63.45%	
+Hispanic Origin	16588	
+% Hispanic Origin	9.02%	

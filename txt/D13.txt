@@ -1,0 +1,23 @@
+Field	Value	
+District	D13	
+Population	175069	
+Deviation	-679	
+% Deviation	-0.39%	
+White	120428	
+% White	68.79%	
+Black	6448	
+% Black	3.68%	
+AmIndian	524	
+% AmIndian	0.3%	
+Asian	16840	
+% Asian	9.62%	
+Hawaiian	41	
+% Hawaiian	0.02%	
+Other	14252	
+% Other	8.14%	
+2+ Races	16536	
+% 2+ Races	9.45%	
+NH_Wht	117664	
+% NH_Wht	67.21%	
+Hispanic Origin	16747	
+% Hispanic Origin	9.57%	

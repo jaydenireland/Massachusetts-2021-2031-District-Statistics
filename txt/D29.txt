@@ -1,0 +1,23 @@
+Field	Value	
+District	D29	
+Population	181874	
+Deviation	6,126	
+% Deviation	3.49%	
+White	41895	
+% White	23.04%	
+Black	77382	
+% Black	42.55%	
+AmIndian	1074	
+% AmIndian	0.59%	
+Asian	11691	
+% Asian	6.43%	
+Hawaiian	79	
+% Hawaiian	0.04%	
+Other	25905	
+% Other	14.24%	
+2+ Races	23848	
+% 2+ Races	13.11%	
+NH Wht	36896	
+% NH_Wht	20.29%	
+Hispanic Origin	47928	
+% Hispanic Origin	26.35%	

@@ -1,0 +1,23 @@
+Field	Value	
+District	D24	
+Population	181758	
+Deviation	6,010	
+% Deviation	3.42%	
+White	106833	
+% White	58.78%	
+Black	13975	
+% Black	7.69%	
+AmIndian	1556	
+% AmIndian	0.86%	
+Asian	9791	
+% Asian	5.39%	
+Hawaiian	60	
+% Hawaiian	0.03%	
+Other	30712	
+% Other	16.9%	
+2+ Races	18831	
+% 2+ Races	10.36%	
+NH_Wht	101809	
+% NH_ Wht	56.01%	
+Hispanic Origin	49436	
+% Hispanic Origin	27.2%	

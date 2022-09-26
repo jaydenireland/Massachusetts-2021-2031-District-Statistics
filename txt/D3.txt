@@ -1,0 +1,23 @@
+Field	Value	
+District	D03	
+Population	168062	
+Deviation	-7,686	
+% Deviation	-4.37%	
+White	67092	
+% White	39.92%	
+Black	31504	
+% Black	18.75%	
+AmIndian	1478	
+% AmIndian	0.88%	
+Asian	4031	
+% Asian	2.4%	
+Hawaiian	151	
+% Hawaiian	0.09%	
+Other	39488	
+% Other	23.5%	
+2+ Races	24318	
+% 2+ Races	14.47%	
+NH Wht	52778	
+% NH_Wht	31.4%	
+Hispanic Origin	77314	
+% Hispanic Origin	46%	

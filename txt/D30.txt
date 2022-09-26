@@ -1,0 +1,23 @@
+Field	Value	
+District	D30	
+Population	184255	
+Deviation	8,507	
+% Deviation	4.84%	
+White	88739	
+% White	48.16%	
+Black	35969	
+% Black	19.52%	
+AmIndian	681	
+% AmIndian	0.37%	
+Asian	26456	
+% Asian	14.36%	
+Hawaiian	83	
+% Hawaiian	0.05%	
+Other	14338	
+% Other	7.78%	
+2+ Races	17989	
+% 2+ Races	9.76%	
+NH_Wht	85477	
+% NH_ Wht	46.39%	
+Hispanic Origin	24771	
+% Hispanic Origin	13.44%	

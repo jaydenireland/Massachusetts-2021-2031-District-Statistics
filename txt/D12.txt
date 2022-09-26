@@ -1,0 +1,23 @@
+Field	Value	
+District	D12	
+Population	178130	
+Deviation	2,382	
+% Deviation	1.36%	
+White	130902	
+% White	73.49%	
+Black	4275	
+% Black	2.4%	
+AmIndian	389	
+% AmIndian	0.22%	
+Asian	17760	
+% Asian	9.97%	
+Hawaiian	48	
+% Hawaiian	0.03%	
+Other	8995	
+% Other	5.05%	
+2+ Races	15761	
+% 2+ Races	8.85%	
+NH_Wht	128542	
+% NH_Wht	72.16%	
+Hispanic Origin	12780	
+% Hispanic Origin	7.17%	

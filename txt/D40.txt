@@ -1,0 +1,23 @@
+Field	Value	
+District	D40	
+Population	175563	
+Deviation	-185	
+% Deviation	-0.11%	
+White	144965	
+% White	82.57%	
+Black	6970	
+% Black	3.97%	
+AmIndian	779	
+% AmIndian	0.44%	
+Asian	2293	
+% Asian	1.31%	
+Hawaiian	73	
+% Hawaiian	0.04%	
+Other	6249	
+% Other	3.56%	
+2+ Races	14234	
+% 2+ Races	8.11%	
+NH_Wht	143307	
+% NH_Wht	81.63%	
+Hispanic Origin	8540	
+% Hispanic Origin	4.86%	
